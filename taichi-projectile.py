@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 
 ti.init(arch=ti.cpu)  
 
-# Constants
-     
 g  = np.array([0, -9.8])  # Earth's gravity
 v0 = 10      # initial velocity (m/s)
 
